@@ -1,0 +1,20 @@
+Codigo,Nome,RG,CPF,Telefone,Endereco,Email
+1;Moises Brito Silva Vidal;6791865;132.149.489-84;(79) 84628-4646;Rua Gajo do Bacalhau, Setor Paranhos, Porto;moses@bigbig.com
+2;Vitória Aurora Laís;388005919;966.209.489-01;(62) 98518-0747;Rua João Manoel, Nº 822, Goiânia-GO;vitoriaaurora@maxilajes.com.br
+3;Eliane Daiane Martins;225805649;975.550.536-91;(71) 99364-2126;Avenida Antonina Mendes, Nº 412, Salvador-BA;elianedaiane@schaeffler.com
+4;Sophia Manuela Lima;359284085;905.944.716-64;(83) 99184-1913;Rua Márcia Carneiro Morais, Nº 659, João Pessoa-PB;sophiamanuelalima@bluespropaganda.com
+5;Severino Jorge Osvaldo Souza;279628626;038.144.236-58;(92) 98747-6306;Rua Currais Novos, Nº 597, Manaus-AM;severinojorge@hubersuhner.com
+6;Ruan Samuel Drumond;116853232;610.200.408-66;(98) 99832-0450;Beco Feliz, nº 136, São Luís-MA;ruansamueldrumond@orthoi.com.br
+7;Sandra Cláudia Clara Jesus;382327767;720.891.735-30;(14) 99732-2794;Rua Brasilino Nogueira, nº 925, Marília-SP;sandraclaudiajesus@jammer.com.br
+8;Marlene Márcia Silveira;387225286;182.014.370-80;(98) 98695-7509;Rua Santa Luzia, nº 623, São Luís-MA;marlenesilveira@gilconsultoria.com
+9;Pedro Vitor SIlveira;6074694;032.028.611-82;(62) 99298-0863;Rua T28, 171, 202, Setor Bueno;pv@pv.com
+10;Guilherme Gabriel;6074693;124.475.256-99;(62) 99598-8635;Rua T28, 171, 202, Setor Bueno;gui@gui.com
+11;Dinamar Fajardo;1458769;433.437.321-68;(62) 99291-6962;Rua T28, 171, 202, Setor Bueno;dina@dina.com
+12;Alcides Junior;2436987;433.437.321-68;(62) 99638-3838;Avenida Anhaguera, Centro;alcides@alcides.com
+13;Natan Miranda;4586987;145.659.988-59;(62) 99688-1505;Residencial Viva América, Jardim América;natan@tantan.com
+14;Lucas Riccioppo;3658122;784.848.468-46;(62) 98228-4032;Rua 88, Setor Sul;lucas@riccioppo.com
+15;Caio Vitor Vilela;3256987;958.568.236-54;(62) 98876-6595;Residencial Premiere Vision, Parque Flamboyant;caio@caio.com
+16;Arthur Caceres Melo;6482569;416.565.879-25;(62) 99289-3654;Praça T23, Residencial Romanee;tutu@tutu.com.br
+17;Sarah Braga;6524358;246.549.465-46;(62) 98289-8726;Rua 6, Residencial Drogasil, Setor Central;sarah@sarah.com
+18;Ana Paula Ferreira;6644879;168.464.959-84;(62) 99864-6846;Alameda E, Jardins Monaco, Aparecida de Goiânia;anap@anapaula.com
+19;Eduardo Rodrigues;7982568;498.792.898-92;(62) 95480-4684;Rua c136, Jardin America;edu@dudu.com

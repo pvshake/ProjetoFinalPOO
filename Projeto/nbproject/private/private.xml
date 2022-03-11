@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/ExceptionCriada.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ExcluirClientes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ExcluirVeiculos.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/CadastraLocacoes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/Home.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ListarLocacoes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ListarVeiculos.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/AtualizarClientes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/Cliente.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/CadastraVeiculos.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ExcluirLocacoes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/Locadora.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/Pessoa.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/Locacao.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/AtualizarLocacoes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/AtualizarVeiculos.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/interfaces/ListarClientes.java</file>
+            <file>file:/C:/Users/Arthur/Documents/UFG/POO/codigos-git/Locadora/Projeto/src/classes/Veiculo.java</file>
+=======
+            <file>file:/C:/Users/arthur.melo/Documents/NetBeansProjects/locadora-java/Projeto/src/properties/conf.properties</file>
+            <file>file:/C:/Users/arthur.melo/Documents/NetBeansProjects/locadora-java/Projeto/src/classes/Locadora.java</file>
+>>>>>>> 56c4b3fa4e48592491530d1942e2eed49bacf92f
+        </group>
+    </open-files>
+</project-private>

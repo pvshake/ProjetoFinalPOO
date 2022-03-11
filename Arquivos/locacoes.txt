@@ -1,0 +1,3 @@
+Nº do Contrato,Data de Início,Data Final,Cod. do Cliente, Veiculo
+984561;18/05/2020;13/06/2020;4;AKA7894
+829872;18/06/2019;23/06/2019;2;FAS8746
